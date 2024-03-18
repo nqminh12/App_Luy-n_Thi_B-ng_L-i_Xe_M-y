@@ -1,0 +1,6 @@
+Error occurred in UserPractice_Load method: Unable to cast object of type 'DataAccess.Models.Topic' to type 'System.Int32'.
+Error occurred in UserPractice_Load method: Object reference not set to an instance of an object.
+Error occurred in UserPractice_Load method: Object reference not set to an instance of an object.
+Error occurred in UserPractice_Load method: Items collection cannot be modified when the DataSource property is set.
+Error occurred in UserPractice_Load method: Items collection cannot be modified when the DataSource property is set.
+Error occurred in UserPractice_Load method: Items collection cannot be modified when the DataSource property is set.
